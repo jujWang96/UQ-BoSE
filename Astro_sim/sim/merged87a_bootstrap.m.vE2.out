@@ -1,0 +1,802 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+   124
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+background check
+        2800
+
+        2800
+
+   275
+
+   275
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 9
+       Position: [0.8261 0.8969 0.0946 0.0679]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2800
+
+        2800
+
+   275
+
+   275
+
+There are 1 connected components in the graph.
+background check
+background check
+        2816
+
+        2816
+
+   259
+
+   259
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2816
+
+        2816
+
+   259
+
+   259
+
+There are 1 connected components in the graph.
+background check
+background check
+        2826
+
+        2826
+
+   244
+
+   244
+
+
+leg = 
+
+  Legend (1, 40) with properties:
+
+         String: {'1'  '40'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2826
+
+        2826
+
+   244
+
+   244
+
+There are 1 connected components in the graph.
+background check
+background check
+        2834
+
+        2834
+
+   228
+
+   228
+
+
+leg = 
+
+  Legend (1, 40) with properties:
+
+         String: {'1'  '40'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2834
+
+        2834
+
+   228
+
+   228
+
+There are 1 connected components in the graph.
+background check
+background check
+        2816
+
+        2816
+
+   257
+
+   257
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2816
+
+        2816
+
+   257
+
+   257
+
+There are 1 connected components in the graph.
+background check
+background check
+        2809
+
+        2809
+
+   252
+
+   252
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2809
+
+        2809
+
+   252
+
+   252
+
+There are 1 connected components in the graph.
+background check
+background check
+        2788
+
+        2788
+
+   281
+
+   281
+
+
+leg = 
+
+  Legend (1, 40) with properties:
+
+         String: {'1'  '40'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2788
+
+        2788
+
+   281
+
+   281
+
+There are 1 connected components in the graph.
+background check
+background check
+        2791
+
+        2791
+
+   276
+
+   276
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2791
+
+        2791
+
+   276
+
+   276
+
+There are 1 connected components in the graph.
+background check
+background check
+        2836
+
+        2836
+
+   242
+
+   242
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2836
+
+        2836
+
+   242
+
+   242
+
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+        2813
+
+        2813
+
+   258
+
+   258
+
+
+leg = 
+
+  Legend (1, 40) with properties:
+
+         String: {'1'  '40'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        2813
+
+        2813
+
+   258
+
+   258
+
+
+file_id =
+
+        1044
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+background check
+        1246
+
+        1246
+
+        1680
+
+        1680
+
+    55
+
+    55
+
+    53
+
+    53
+
+
+leg = 
+
+  Legend (1, 41, 94, 100) with properties:
+
+         String: {'1'  '41'  '94'  '100'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.9008 0.0850 0.0558]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1301
+
+        1301
+
+        1733
+
+        1733
+
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+        1238
+
+        1238
+
+        1738
+
+        1738
+
+    61
+
+    61
+
+
+leg = 
+
+  Legend (1, 41, 110) with properties:
+
+         String: {'1'  '41'  '110'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.9133 0.0850 0.0433]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1276
+
+        1276
+
+        1761
+
+        1761
+
+There are 1 connected components in the graph.
+background check
+background check
+        1242
+
+        1242
+
+        1754
+
+        1754
+
+    16
+
+    16
+
+    24
+
+    24
+
+
+leg = 
+
+  Legend (1, 41, 115, 141) with properties:
+
+         String: {'1'  '41'  '115'  '141'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.9008 0.0850 0.0558]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1282
+
+        1282
+
+        1754
+
+        1754
+
+There are 1 connected components in the graph.
+background check
+background check
+        1271
+
+        1271
+
+        1054
+
+        1054
+
+    26
+
+    26
+
+   653
+
+   653
+
+    23
+
+    23
+
+
+leg = 
+
+  Legend (1, 41, 87, 95, 136) with properties:
+
+         String: {'1'  '41'  '87'  '95'  '136'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.8883 0.0850 0.0683]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1320
+
+        1320
+
+        1707
+
+        1707
+
+There are 1 connected components in the graph.
+background check
+background check
+        1242
+
+        1242
+
+        1585
+
+        1585
+
+   208
+
+   208
+
+
+leg = 
+
+  Legend (1, 41, 88) with properties:
+
+         String: {'1'  '41'  '88'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9133 0.0800 0.0433]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1242
+
+        1242
+
+        1793
+
+        1793
+
+There are 1 connected components in the graph.
+background check
+background check
+        1273
+
+        1273
+
+        1759
+
+        1759
+
+
+leg = 
+
+  Legend (1, 41) with properties:
+
+         String: {'1'  '41'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9258 0.0800 0.0308]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1273
+
+        1273
+
+        1759
+
+        1759
+
+There are 1 connected components in the graph.
+background check
+background check
+        1223
+
+        1223
+
+        1737
+
+        1737
+
+    48
+
+    48
+
+    34
+
+    34
+
+
+leg = 
+
+  Legend (1, 41, 87, 101) with properties:
+
+         String: {'1'  '41'  '87'  '101'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.9008 0.0850 0.0558]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1299
+
+        1299
+
+        1743
+
+        1743
+
+There are 1 connected components in the graph.
+background check
+background check
+        1265
+
+        1265
+
+        1723
+
+        1723
+
+    23
+
+    23
+
+    18
+
+    18
+
+
+leg = 
+
+  Legend (1, 40, 106, 135) with properties:
+
+         String: {'1'  '40'  '106'  '135'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.9008 0.0850 0.0558]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1283
+
+        1283
+
+        1746
+
+        1746
+
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+        1208
+
+        1208
+
+        1754
+
+        1754
+
+    26
+
+    26
+
+    24
+
+    24
+
+    24
+
+    24
+
+
+leg = 
+
+  Legend (1, 41, 94, 117, 142) with properties:
+
+         String: {'1'  '41'  '94'  '117'  '142'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8829 0.8883 0.0850 0.0683]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1282
+
+        1282
+
+        1754
+
+        1754
+
+There are 1 connected components in the graph.
+background check
+background check
+        1239
+
+        1239
+
+        1746
+
+        1746
+
+    39
+
+    39
+
+
+leg = 
+
+  Legend (1, 40, 89) with properties:
+
+         String: {'1'  '40'  '89'}
+       Location: 'northeast'
+    Orientation: 'vertical'
+       FontSize: 5
+       Position: [0.8879 0.9133 0.0800 0.0433]
+          Units: 'normalized'
+
+  Use GET to show all properties
+
+        1278
+
+        1278
+
+        1746
+
+        1746
+
+>> >> >> >> 

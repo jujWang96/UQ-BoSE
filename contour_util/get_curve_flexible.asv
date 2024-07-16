@@ -1,0 +1,95 @@
+function [cxs,cys] = get_curve_flexible(contour,clockwise)
+%
+% Get the closed curve of the segmentation in traversy order, handling edge
+% case of "get_curve.m"--allow the segment to have multiple contours (boundaries)
+%Input:
+% contour: line segments of the contour 
+% clockwise: logic argument, if true then return each curve in clockwise
+% manner
+cxs = {};
+cys = {};
+curve_id = 1;
+while ~isempty(contour)
+     [cx,cy,contour] = get_curve_single(contour,clockwise);
+     cxs{curve_id} = cx;
+     cys{curve_id} = cy;
+    curve_id = curve_id+1;
+end
+return
+
+
+end
+function [cx,cy,contour_update] = get_curve_single(contour,clockwise)
+% Get the closed curve of each single boundary of the segmentation in traversy order
+%
+%Output: 
+% cx
+% cy
+    if isempty(contour)
+        cx = [];
+        cy = [];
+        curve = [];
+        return
+    end
+    x1 = contour(:,1);
+    
+    x2 = contour(:,2);
+    y1 = contour(:,3);
+    y2 = contour(:,4);
+    n = length(x1);
+    cx = zeros(n,1);
+    cy = zeros(n,1);
+
+    cx(1) = x1(1);
+    cx(2) = x2(1);
+    
+    cy(1) = y1(1);
+    cy(2) = y2(1);
+    
+    x1(1) = nan;
+    x2(1) = nan;
+    y1(1) = nan;
+    y2(1) = nan;
+    for i = 2:n
+        j1 = find(x1==cx(i) & y1==cy(i));
+        j2 = find(x2==cx(i) & y2==cy(i));
+        if isempty(j1) && isempty(j2)
+            % reached the end of the countour
+            break
+        elseif ~isempty(j1)
+            cx(i+1) = x2(j1);
+            cy(i+1) = y2(j1);
+             x1(j1) = nan;
+             x2(j1) = nan;
+             y1(j1) = nan;
+             y2(j1) = nan;
+        else
+            cx(i+1) = x1(j2);
+            cy(i+1) = y1(j2);
+            x1(j2) = nan;
+            x2(j2) = nan;
+            y1(j2) = nan;
+            y2(j2) = nan;
+        end
+    end
+    %remove 0 values 
+    cx = cx(1:i-1);
+    cy = cy(1:i-1);
+    %cx = cx(1:end-1);
+    %cy = cy(1:end-1);
+
+    contour_update = contour(~isnan(x1),:);
+    % return the curve in a clockwise manner 
+    if clockwise==true
+        [cx,cy] = poly2cw(cx,cy);
+    % return the curve in counter clockwise manner    
+    else 
+        [cx,cy] = poly2ccw(cx,cy);
+        
+    end
+    
+end
+
+
+
+

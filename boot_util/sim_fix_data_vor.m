@@ -1,0 +1,113 @@
+function[new_X_set,Regions] = sim_fix_data_vor(X,model,B,seed)
+%calcualte the area of each triangle produced by the vertex of delaunay 
+%triangle and each two adjacent vertices of voronoi diagram
+%input: 
+%
+% X: data point
+% of the Voronoi vertices in V(has to be bounded using VoronoiLimit.m)
+% model: 
+%     |1. uniformly random
+%     |2. Inhomogeneous possion
+% B: number of bootstrap replicants. 
+% seed: random seed.
+%
+%
+%
+%output: 
+% new_X_set: a length-B cell array, with eahc cell containing a n by 2 matrix 
+% of one bootstrap replicant. 
+%
+% The uniform points generating algorithm refers to ...
+%https://math.stackexchange.com/questions/18686/uniform-random-point-in-triangle
+%
+rng(seed);
+
+n = size(X, 1);
+new_X_set = cell(B,1);
+M = 1;
+xlimit = [0 1];
+ylimit = [0 1];
+xbox = xlimit([1 1 2 2 ]);
+ybox = ylimit([1 2 2 1 ]);
+[V,R,XY] = VoronoiLimit(X(:,1),X(:,2),'bs_ext',[xbox;ybox]','figure','off');
+triagl = cell(n,1);
+probs = cell(n,1);
+areas = zeros(n,1);
+Centers = zeros(n,2);
+Regions = cell(B,1);
+%partion voronoi cell into triangle and calculate eahc area
+for i = 1:n
+    v = V(R{i}, :);
+    areas(i) = polyarea(v(:,1),v(:,2));
+    length_v = length(v);
+    CH = convhulln(v);
+    cent = mean(v,1);
+    v(length_v+1,:) = cent;
+    %save the partition to triagl
+    tri = [CH,repmat(length_v+1,length_v,1)];
+    triagl{i} = tri;
+    p = zeros(1,length_v);
+    for j = 1:length_v
+        p(j) = abs(det(v(tri(j,1:2),:) - cent));
+    end
+    p = p/sum(p);
+    probs{i} = p;
+    %save the center to V and update R 
+    Centers(i,:) = cent;
+end
+
+
+
+%uniformly random generate
+if model == 1 
+    for b = 1:B
+        new_X = zeros(n*M,2);
+        for i = 1:n
+            v = [V(R{i}, :);Centers(i,:)];
+            p = probs{i};
+            tri = triagl{i};
+            %generate one random new point uniformly
+            smplx = randsample(length(v)-1,M,true,p);
+            r1 = rand(M,1);
+            pt = v(tri(smplx,1),:).*r1 + v(tri(smplx,2),:).*(1-r1);
+            r2 = sqrt(rand(M,1));
+            new_X((i-1)*M+1:i*M,:) = pt.*r2 + v(tri(smplx,3),:).*(1-r2); 
+        end
+        new_X_set{b} = new_X;
+    end
+    
+
+% inhomogeneous poisson
+elseif model == 2 
+    for b = 1:B
+        N = poissrnd(n);
+        new_X = zeros(N*M,2);
+        Region = randi(n,1,N);
+        Regions{b}= Region;
+        for i = 1:N
+            r = Region(i);                    
+            v = [V(R{r},:);Centers(r,:)];
+            p = probs{r};
+            tri = triagl{r};
+            %uniformly random sample in the selected area
+            smplx = randsample(length(v)-1,M,true,p);
+            r1 = rand(M,1);
+            pt = v(tri(smplx,1),:).*r1 + v(tri(smplx,2),:).*(1-r1);
+            r2 = sqrt(rand(M,1));
+            new_X((i-1)*M+1:i*M,:) = pt.*r2 + v(tri(smplx,3),:).*(1-r2); 
+        end
+        new_X_set{b} = new_X;
+    end
+    
+       
+else
+    fprintf("Invalid model.");
+end
+
+    
+        
+end
+
+
+
+

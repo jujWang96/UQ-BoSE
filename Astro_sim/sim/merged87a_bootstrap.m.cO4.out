@@ -1,0 +1,184 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+   124
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+
+centx =
+
+    0.5009
+
+
+centy =
+
+    0.4952
+
+
+area =
+
+    0.0013
+
+
+num_in =
+
+   273
+
+
+intensity =
+
+   2.0909e+05
+
+
+min_BIC =
+
+  -5.4438e+04
+
+
+centx_seq =
+
+  Columns 1 through 7
+
+    0.4996    0.5007    0.5018    0.4995    0.5019    0.5005    0.5031
+
+  Columns 8 through 10
+
+    0.4990    0.4998    0.5013
+
+
+centy_seq =
+
+  Columns 1 through 7
+
+    0.4942    0.4941    0.4968    0.4927    0.4994    0.4953    0.4952
+
+  Columns 8 through 10
+
+    0.4966    0.4970    0.4956
+
+
+area_seq =
+
+  Columns 1 through 7
+
+    0.0017    0.0015    0.0018    0.0016    0.0017    0.0018    0.0019
+
+  Columns 8 through 10
+
+    0.0016    0.0016    0.0019
+
+
+num_in_B_seq =
+
+   275   259   244   228   257   252   281   276   242   258
+
+
+intensity_B_seq =
+
+   1.0e+05 *
+
+  Columns 1 through 7
+
+    1.6290    1.7648    1.3579    1.4438    1.5457    1.4151    1.5118
+
+  Columns 8 through 10
+
+    1.6780    1.5601    1.3440
+
+
+num_in_O_seq =
+
+   278   276   275   268   273   279   277   279   276   280
+
+
+intensity_O_seq =
+
+   1.0e+05 *
+
+  Columns 1 through 7
+
+    1.6468    1.8806    1.5305    1.6971    1.6419    1.5667    1.4902
+
+  Columns 8 through 10
+
+    1.6962    1.7793    1.4586
+
+
+BIC_seq =
+
+   1.0e+03 *
+
+  Columns 1 through 7
+
+    0.9926    1.0259    1.3594    1.5542    1.1495    1.4309    1.0875
+
+  Columns 8 through 10
+
+    1.1389    1.1612    1.2369
+
+>> >> >> >> 

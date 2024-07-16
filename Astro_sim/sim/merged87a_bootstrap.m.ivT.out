@@ -1,0 +1,1081 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+        1044
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x135 cell}
+       regionId: [1 41 104 135]
+     background: 1
+    connectList: [5x2 double]
+      coverList: []
+
+
+boot_selected =
+
+  1x155 cell array
+
+  Columns 1 through 4
+
+    {1x1246 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1680 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {1x53 double}
+
+  Columns 105 through 108
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {1x55 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 144
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 145 through 148
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 149 through 152
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 153 through 155
+
+    {0x0 double}    {0x0 double}    {0x0 double}
+
+final results more than one region
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x83 cell}
+       regionId: [1 41 83]
+     background: 1
+    connectList: [3x2 double]
+      coverList: []
+
+
+boot_selected =
+
+  1x151 cell array
+
+  Columns 1 through 4
+
+    {1x1238 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1738 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {0x0 double}    {1x61 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 105 through 108
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 144
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 145 through 148
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 149 through 151
+
+    {0x0 double}    {0x0 double}    {0x0 double}
+
+final results more than one region
+There are 1 connected components in the graph.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x105 cell}
+       regionId: [1 41 82 105]
+     background: 1
+    connectList: [5x2 double]
+      coverList: []
+
+
+boot_selected =
+
+  1x153 cell array
+
+  Columns 1 through 4
+
+    {1x1242 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1754 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {1x16 double}    {0x0 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 105 through 108
+
+    {1x24 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 144
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 145 through 148
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 149 through 152
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Column 153
+
+    {0x0 double}
+
+final results more than one region
+There are 1 connected components in the graph.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x131 cell}
+       regionId: [1 41 82 94 131]
+     background: 1
+    connectList: [7x2 double]
+      coverList: []
+
+
+boot_selected =
+
+  1x152 cell array
+
+  Columns 1 through 4
+
+    {1x1271 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1054 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {1x653 double}    {0x0 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {1x26 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 105 through 108
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {1x23 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 144
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 145 through 148
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 149 through 152
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+final results more than one region
+There are 1 connected components in the graph.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x82 cell}
+       regionId: [1 41 82]
+     background: 1
+    connectList: [3x2 double]
+      coverList: []
+
+
+boot_selected =
+
+  1x153 cell array
+
+  Columns 1 through 4
+
+    {1x1242 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1585 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {1x208 double}    {0x0 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 105 through 108
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 144
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 145 through 148
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 149 through 152
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Column 153
+
+    {0x0 double}
+
+final results more than one region
+There are 1 connected components in the graph.
+background check
+
+boot_contour = 
+
+  struct with fields:
+
+       contourV: {1x41 cell}
+       regionId: [1 41]
+     background: 1
+    connectList: [1 41]
+      coverList: [2x2 double]
+
+
+boot_selected =
+
+  1x143 cell array
+
+  Columns 1 through 4
+
+    {1x1273 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 5 through 8
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 9 through 12
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 13 through 16
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 17 through 20
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 21 through 24
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 25 through 28
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 29 through 32
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 33 through 36
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 37 through 40
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 41 through 44
+
+    {1x1759 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 45 through 48
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 49 through 52
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 53 through 56
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 57 through 60
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 61 through 64
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 65 through 68
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 69 through 72
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 73 through 76
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 77 through 80
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 81 through 84
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 85 through 88
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 89 through 92
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 93 through 96
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 97 through 100
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 101 through 104
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 105 through 108
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 109 through 112
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 113 through 116
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 117 through 120
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 121 through 124
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 125 through 128
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 129 through 132
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 133 through 136
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 137 through 140
+
+    {0x0 double}    {0x0 double}    {0x0 double}    {0x0 double}
+
+  Columns 141 through 143
+
+    {0x0 double}    {0x0 double}    {0x0 double}
+
+{Undefined function or variable 'boot_min_BIC'.
+
+Error in merged87a_bootstrap_subfunction (line 40)
+            BIC_seq(idx) = boot_min_BIC;
+} 
+>> >> >> >> 

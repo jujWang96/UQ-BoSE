@@ -1,0 +1,1737 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+   124
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 2 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 3 connected components in the graph.
+Drop 1 isolated cells.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+Reject seed set which is local maximum but not connected
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+Reject seed set which is local maximum but not connected
+background check
+background check
+number of valid segmentation is  
+   190
+
+
+centx =
+
+    0.5009
+
+
+centy =
+
+    0.4952
+
+
+area =
+
+    0.0013
+
+
+num_in =
+
+   273
+
+
+intensity =
+
+   2.0909e+05
+
+
+min_BIC =
+
+  -5.4438e+04
+
+
+centx_seq =
+
+  Columns 1 through 7
+
+    0.4996    0.5007    0.5018    0.4995    0.5019    0.5005    0.5031
+
+  Columns 8 through 14
+
+    0.4990    0.4998    0.5013    0.5014    0.5028    0.4949    0.5021
+
+  Columns 15 through 21
+
+    0.5007    0.4994    0.4993    0.5040    0.4985    0.5018    0.4982
+
+  Columns 22 through 28
+
+    0.5004    0.4984    0.4988    0.5022    0.5013    0.5016    0.5008
+
+  Columns 29 through 35
+
+    0.4995    0.5013    0.4989    0.5032    0.4988    0.4996    0.4985
+
+  Columns 36 through 42
+
+    0.4998    0.4998    0.4996    0.4998    0.5001    0.4995    0.5015
+
+  Columns 43 through 49
+
+    0.5008    0.4996    0.5016    0.4988    0.4990    0.5009    0.4973
+
+  Columns 50 through 56
+
+    0.5029    0.4974    0.5003    0.5015    0.5050    0.5010    0.4998
+
+  Columns 57 through 63
+
+    0.5026    0.5018    0.5010    0.5014    0.4996    0.4985    0.4989
+
+  Columns 64 through 70
+
+    0.4988    0.4991    0.5001    0.5008    0.4983    0.4998    0.5004
+
+  Columns 71 through 77
+
+    0.4993    0.4999    0.5028    0.5007    0.5004    0.5001    0.4993
+
+  Columns 78 through 84
+
+    0.4998    0.4997    0.5026    0.4989    0.4996    0.5000    0.5004
+
+  Columns 85 through 91
+
+    0.4970    0.5008    0.5002    0.4995    0.5013    0.5009    0.4995
+
+  Columns 92 through 98
+
+    0.4990    0.4986    0.4955    0.5007    0.4962    0.4995    0.5015
+
+  Columns 99 through 105
+
+    0.4996    0.5001    0.5024    0.4997    0.5020    0.5018    0.5019
+
+  Columns 106 through 112
+
+    0.5009    0.5010    0.4992    0.4989    0.5026    0.5020    0.5022
+
+  Columns 113 through 119
+
+    0.5016    0.5026    0.5001    0.4989    0.4994    0.4988    0.4976
+
+  Columns 120 through 126
+
+    0.5020    0.4978    0.4977    0.4994    0.5015    0.5005    0.5004
+
+  Columns 127 through 133
+
+    0.5005    0.5038    0.4998    0.5023    0.4980    0.5013    0.5010
+
+  Columns 134 through 140
+
+    0.5019    0.4964    0.4978    0.5007    0.4983    0.5028    0.4995
+
+  Columns 141 through 147
+
+    0.4991    0.5001    0.4980    0.4998    0.4999    0.4991    0.4999
+
+  Columns 148 through 154
+
+    0.5000    0.4978    0.5032    0.4993    0.4972    0.4998    0.5016
+
+  Columns 155 through 161
+
+    0.5006    0.5014    0.4999    0.4991    0.4980    0.4965    0.4998
+
+  Columns 162 through 168
+
+    0.5006    0.4991    0.4984    0.5011    0.5015    0.4992    0.4981
+
+  Columns 169 through 175
+
+    0.5002    0.4991    0.4997    0.4983    0.5013    0.5001    0.5005
+
+  Columns 176 through 182
+
+    0.4977    0.4993    0.4967    0.4979    0.4998    0.5009    0.4997
+
+  Columns 183 through 189
+
+    0.4985    0.5021    0.4985    0.4991    0.5029    0.4999    0.5005
+
+  Column 190
+
+    0.5019
+
+
+centy_seq =
+
+  Columns 1 through 7
+
+    0.4942    0.4941    0.4968    0.4927    0.4994    0.4953    0.4952
+
+  Columns 8 through 14
+
+    0.4966    0.4970    0.4956    0.4971    0.4953    0.4965    0.4954
+
+  Columns 15 through 21
+
+    0.4977    0.4954    0.4937    0.4979    0.4964    0.4984    0.4960
+
+  Columns 22 through 28
+
+    0.4972    0.4956    0.4971    0.4956    0.4987    0.5003    0.4938
+
+  Columns 29 through 35
+
+    0.4952    0.4952    0.4937    0.4972    0.4931    0.4968    0.4937
+
+  Columns 36 through 42
+
+    0.4961    0.4956    0.4968    0.4950    0.4964    0.4966    0.4956
+
+  Columns 43 through 49
+
+    0.4965    0.4927    0.4937    0.4944    0.4939    0.4968    0.4975
+
+  Columns 50 through 56
+
+    0.4983    0.4952    0.4943    0.4949    0.4953    0.4970    0.4961
+
+  Columns 57 through 63
+
+    0.4937    0.4973    0.4977    0.4973    0.4937    0.4928    0.4979
+
+  Columns 64 through 70
+
+    0.4974    0.4950    0.4955    0.4951    0.4954    0.4953    0.4974
+
+  Columns 71 through 77
+
+    0.4942    0.4955    0.4953    0.4966    0.4941    0.4969    0.4951
+
+  Columns 78 through 84
+
+    0.4958    0.4978    0.4956    0.4960    0.4946    0.4946    0.5000
+
+  Columns 85 through 91
+
+    0.4983    0.4976    0.4949    0.4977    0.4963    0.4950    0.4976
+
+  Columns 92 through 98
+
+    0.4968    0.4947    0.4959    0.4971    0.4969    0.4981    0.4960
+
+  Columns 99 through 105
+
+    0.4935    0.4936    0.4966    0.4964    0.4947    0.4959    0.4966
+
+  Columns 106 through 112
+
+    0.4966    0.4974    0.4976    0.4974    0.4964    0.4962    0.4943
+
+  Columns 113 through 119
+
+    0.4969    0.4967    0.4947    0.4968    0.4959    0.4943    0.4942
+
+  Columns 120 through 126
+
+    0.4949    0.4961    0.4968    0.4947    0.4953    0.4958    0.4966
+
+  Columns 127 through 133
+
+    0.4957    0.4939    0.4952    0.5000    0.4982    0.4950    0.4957
+
+  Columns 134 through 140
+
+    0.4936    0.4964    0.4958    0.5004    0.4974    0.4944    0.4976
+
+  Columns 141 through 147
+
+    0.4988    0.4962    0.4932    0.4971    0.4986    0.4970    0.4931
+
+  Columns 148 through 154
+
+    0.4957    0.4950    0.4967    0.4968    0.4973    0.4977    0.4984
+
+  Columns 155 through 161
+
+    0.4979    0.4932    0.4952    0.4954    0.4964    0.4961    0.4946
+
+  Columns 162 through 168
+
+    0.4961    0.4933    0.4977    0.4944    0.4947    0.4952    0.4937
+
+  Columns 169 through 175
+
+    0.4959    0.4963    0.4971    0.4956    0.4962    0.4984    0.4994
+
+  Columns 176 through 182
+
+    0.4967    0.4959    0.4956    0.4967    0.4956    0.4974    0.4931
+
+  Columns 183 through 189
+
+    0.4947    0.4966    0.4979    0.4972    0.4959    0.4945    0.4959
+
+  Column 190
+
+    0.4980
+
+
+area_seq =
+
+  Columns 1 through 7
+
+    0.0017    0.0015    0.0018    0.0016    0.0017    0.0018    0.0019
+
+  Columns 8 through 14
+
+    0.0016    0.0016    0.0019    0.0017    0.0015    0.0019    0.0016
+
+  Columns 15 through 21
+
+    0.0012    0.0020    0.0022    0.0015    0.0019    0.0020    0.0015
+
+  Columns 22 through 28
+
+    0.0014    0.0021    0.0014    0.0017    0.0018    0.0020    0.0016
+
+  Columns 29 through 35
+
+    0.0016    0.0020    0.0017    0.0014    0.0012    0.0016    0.0017
+
+  Columns 36 through 42
+
+    0.0017    0.0019    0.0020    0.0015    0.0016    0.0016    0.0020
+
+  Columns 43 through 49
+
+    0.0016    0.0019    0.0015    0.0019    0.0015    0.0017    0.0016
+
+  Columns 50 through 56
+
+    0.0015    0.0013    0.0017    0.0015    0.0018    0.0019    0.0017
+
+  Columns 57 through 63
+
+    0.0017    0.0018    0.0021    0.0019    0.0014    0.0016    0.0022
+
+  Columns 64 through 70
+
+    0.0017    0.0016    0.0016    0.0017    0.0019    0.0019    0.0017
+
+  Columns 71 through 77
+
+    0.0017    0.0012    0.0018    0.0018    0.0017    0.0016    0.0018
+
+  Columns 78 through 84
+
+    0.0012    0.0018    0.0016    0.0014    0.0012    0.0011    0.0017
+
+  Columns 85 through 91
+
+    0.0014    0.0017    0.0015    0.0019    0.0017    0.0018    0.0019
+
+  Columns 92 through 98
+
+    0.0017    0.0017    0.0021    0.0018    0.0017    0.0018    0.0015
+
+  Columns 99 through 105
+
+    0.0018    0.0012    0.0017    0.0016    0.0017    0.0020    0.0016
+
+  Columns 106 through 112
+
+    0.0016    0.0018    0.0016    0.0018    0.0017    0.0014    0.0016
+
+  Columns 113 through 119
+
+    0.0015    0.0016    0.0015    0.0014    0.0019    0.0017    0.0015
+
+  Columns 120 through 126
+
+    0.0017    0.0017    0.0016    0.0016    0.0018    0.0016    0.0013
+
+  Columns 127 through 133
+
+    0.0011    0.0018    0.0012    0.0018    0.0019    0.0017    0.0014
+
+  Columns 134 through 140
+
+    0.0019    0.0014    0.0016    0.0018    0.0018    0.0018    0.0013
+
+  Columns 141 through 147
+
+    0.0015    0.0019    0.0017    0.0018    0.0017    0.0016    0.0016
+
+  Columns 148 through 154
+
+    0.0018    0.0014    0.0016    0.0019    0.0018    0.0013    0.0018
+
+  Columns 155 through 161
+
+    0.0014    0.0014    0.0014    0.0019    0.0020    0.0016    0.0017
+
+  Columns 162 through 168
+
+    0.0017    0.0014    0.0017    0.0016    0.0015    0.0012    0.0015
+
+  Columns 169 through 175
+
+    0.0022    0.0013    0.0011    0.0017    0.0013    0.0018    0.0014
+
+  Columns 176 through 182
+
+    0.0015    0.0015    0.0018    0.0014    0.0016    0.0014    0.0019
+
+  Columns 183 through 189
+
+    0.0015    0.0017    0.0016    0.0017    0.0016    0.0020    0.0015
+
+  Column 190
+
+    0.0015
+
+
+num_in_B_seq =
+
+  Columns 1 through 13
+
+   275   259   244   228   257   252   281   276   242   258   262   241   231
+
+  Columns 14 through 26
+
+   275   238   282   253   252   267   277   265   275   231   266   255   264
+
+  Columns 27 through 39
+
+   287   274   246   267   290   256   249   275   259   272   257   283   251
+
+  Columns 40 through 52
+
+   265   287   283   251   264   237   279   230   265   243   270   249   258
+
+  Columns 53 through 65
+
+   274   262   242   255   262   260   261   237   244   241   287   257   251
+
+  Columns 66 through 78
+
+   262   270   258   305   279   296   221   275   247   278   248   276   232
+
+  Columns 79 through 91
+
+   262   241   219   248   213   244   244   263   261   262   257   268   246
+
+  Columns 92 through 104
+
+   241   284   243   276   253   280   273   259   243   260   256   273   287
+
+  Columns 105 through 117
+
+   261   264   250   260   238   239   237   258   246   280   253   291   283
+
+  Columns 118 through 130
+
+   268   267   262   238   281   259   305   277   291   250   302   249   275
+
+  Columns 131 through 143
+
+   264   297   267   270   256   236   226   279   263   239   253   260   242
+
+  Columns 144 through 156
+
+   276   257   257   255   257   234   266   249   253   236   265   263   251
+
+  Columns 157 through 169
+
+   266   271   272   257   276   244   236   258   247   258   211   250   266
+
+  Columns 170 through 182
+
+   248   216   279   226   242   259   275   239   268   262   252   244   255
+
+  Columns 183 through 190
+
+   252   264   227   255   235   266   283   250
+
+
+intensity_B_seq =
+
+   1.0e+05 *
+
+  Columns 1 through 7
+
+    1.6290    1.7648    1.3579    1.4438    1.5457    1.4151    1.5118
+
+  Columns 8 through 14
+
+    1.6780    1.5601    1.3440    1.5273    1.6219    1.2393    1.7053
+
+  Columns 15 through 21
+
+    1.9865    1.4447    1.1318    1.6478    1.4337    1.3841    1.7460
+
+  Columns 22 through 28
+
+    1.9159    1.1121    1.8764    1.4600    1.5032    1.4417    1.6893
+
+  Columns 29 through 35
+
+    1.5163    1.3690    1.6631    1.7791    1.9924    1.7416    1.5478
+
+  Columns 36 through 42
+
+    1.5658    1.3718    1.4408    1.6600    1.6280    1.7920    1.4070
+
+  Columns 43 through 49
+
+    1.5951    1.3565    1.6198    1.4563    1.5524    1.5953    1.4923
+
+  Columns 50 through 56
+
+    1.8273    1.9158    1.5228    1.8518    1.4542    1.2852    1.5076
+
+  Columns 57 through 63
+
+    1.5298    1.4733    1.2432    1.2778    1.7945    1.4688    1.2976
+
+  Columns 64 through 70
+
+    1.5505    1.5957    1.6265    1.6231    1.3667    1.5993    1.6145
+
+  Columns 71 through 77
+
+    1.7662    1.8803    1.5143    1.3771    1.5948    1.5329    1.5611
+
+  Columns 78 through 84
+
+    1.9528    1.4369    1.4724    1.5642    2.0752    1.8651    1.4178
+
+  Columns 85 through 91
+
+    1.7485    1.5202    1.7252    1.4073    1.5541    1.4538    1.3274
+
+  Columns 92 through 98
+
+    1.4426    1.6264    1.1361    1.5712    1.5226    1.5367    1.8258
+
+  Columns 99 through 105
+
+    1.4285    1.9639    1.5666    1.5706    1.5807    1.4243    1.5939
+
+  Columns 106 through 112
+
+    1.6402    1.4210    1.6584    1.3138    1.4457    1.6548    1.6351
+
+  Columns 113 through 119
+
+    1.6076    1.7373    1.6397    2.0148    1.5230    1.5703    1.7728
+
+  Columns 120 through 126
+
+    1.5745    1.3925    1.7377    1.6511    1.7006    1.7517    2.1882
+
+  Columns 127 through 133
+
+    2.1872    1.7035    2.0339    1.4878    1.3735    1.7620    1.8773
+
+  Columns 134 through 140
+
+    1.4049    1.8015    1.4347    1.2774    1.5601    1.4471    1.9048
+
+  Columns 141 through 147
+
+    1.7127    1.3356    1.4335    1.5738    1.4862    1.5945    1.5832
+
+  Columns 148 through 154
+
+    1.4442    1.6285    1.6561    1.2961    1.3748    1.8507    1.4779
+
+  Columns 155 through 161
+
+    1.8520    1.7412    1.8529    1.4095    1.3520    1.5893    1.6138
+
+  Columns 162 through 168
+
+    1.4302    1.7162    1.5591    1.5390    1.7787    1.7255    1.6324
+
+  Columns 169 through 175
+
+    1.2307    1.9429    1.9355    1.6328    1.7270    1.3723    1.7950
+
+  Columns 176 through 182
+
+    1.8782    1.5441    1.4653    1.8192    1.6085    1.8031    1.3672
+
+  Columns 183 through 189
+
+    1.7071    1.5909    1.3984    1.4885    1.4396    1.3635    1.8921
+
+  Column 190
+
+    1.6787
+
+
+num_in_O_seq =
+
+  Columns 1 through 13
+
+   278   276   275   268   273   279   277   279   276   280   280   267   277
+
+  Columns 14 through 26
+
+   275   260   277   286   273   277   280   276   270   289   270   282   272
+
+  Columns 27 through 39
+
+   281   278   280   283   273   267   250   276   274   276   282   279   270
+
+  Columns 40 through 52
+
+   273   274   282   274   278   270   280   275   279   276   272   271   276
+
+  Columns 53 through 65
+
+   272   275   281   277   275   277   284   279   264   276   282   270   271
+
+  Columns 66 through 78
+
+   273   274   279   282   277   276   262   280   281   271   273   274   266
+
+  Columns 79 through 91
+
+   274   276   266   263   261   277   268   276   272   278   273   278   281
+
+  Columns 92 through 104
+
+   275   281   286   277   276   277   270   280   263   275   275   278   282
+
+  Columns 105 through 117
+
+   276   273   278   275   282   274   270   271   271   272   275   268   278
+
+  Columns 118 through 130
+
+   278   274   274   277   273   271   277   272   268   261   270   265   276
+
+  Columns 131 through 143
+
+   278   277   268   273   271   274   277   281   277   263   269   280   276
+
+  Columns 144 through 156
+
+   275   280   279   274   270   270   276   282   275   269   274   269   272
+
+  Columns 157 through 169
+
+   275   284   288   273   279   275   270   277   278   270   262   274   282
+
+  Columns 170 through 182
+
+   267   259   280   266   273   268   273   275   283   269   272   268   279
+
+  Columns 183 through 190
+
+   272   272   277   280   271   281   271   269
+
+
+intensity_O_seq =
+
+   1.0e+05 *
+
+  Columns 1 through 7
+
+    1.6468    1.8806    1.5305    1.6971    1.6419    1.5667    1.4902
+
+  Columns 8 through 14
+
+    1.6962    1.7793    1.4586    1.6322    1.7969    1.4861    1.7053
+
+  Columns 15 through 21
+
+    2.1702    1.4191    1.2794    1.7851    1.4874    1.3991    1.8185
+
+  Columns 22 through 28
+
+    1.8810    1.3913    1.9046    1.6146    1.5488    1.4115    1.7140
+
+  Columns 29 through 35
+
+    1.7259    1.4511    1.5656    1.8556    2.0004    1.7479    1.6374
+
+  Columns 36 through 42
+
+    1.5889    1.5052    1.4205    1.7856    1.6772    1.7109    1.4021
+
+  Columns 43 through 49
+
+    1.7413    1.4284    1.8454    1.4615    1.8561    1.6795    1.6950
+
+  Columns 50 through 56
+
+    1.8408    2.0851    1.6290    1.8382    1.5263    1.4924    1.6377
+
+  Columns 57 through 63
+
+    1.6057    1.5697    1.3528    1.5042    1.9416    1.6821    1.2750
+
+  Columns 64 through 70
+
+    1.6289    1.7228    1.6947    1.6471    1.4780    1.4787    1.6029
+
+  Columns 71 through 77
+
+    1.6468    2.2292    1.5418    1.5667    1.5547    1.6875    1.5498
+
+  Columns 78 through 84
+
+    2.2390    1.5027    1.6862    1.8999    2.2007    2.2854    1.6095
+
+  Columns 85 through 91
+
+    1.9205    1.5954    1.7979    1.4932    1.6508    1.5080    1.5163
+
+  Columns 92 through 98
+
+    1.6462    1.6092    1.3371    1.5769    1.6610    1.5203    1.8057
+
+  Columns 99 through 105
+
+    1.5443    2.1256    1.6570    1.6871    1.6097    1.3995    1.6855
+
+  Columns 106 through 112
+
+    1.6961    1.5802    1.7540    1.5567    1.6574    1.8852    1.7174
+
+  Columns 113 through 119
+
+    1.7710    1.6877    1.7823    1.8556    1.4961    1.6289    1.8192
+
+  Columns 120 through 126
+
+    1.6466    1.6207    1.6883    1.7276    1.5445    1.7201    2.0152
+
+  Columns 127 through 133
+
+    2.2835    1.5230    2.1645    1.4933    1.4463    1.6434    1.8843
+
+  Columns 134 through 140
+
+    1.4206    1.9071    1.6657    1.5656    1.5713    1.5242    2.0960
+
+  Columns 141 through 147
+
+    1.8210    1.4383    1.6350    1.5681    1.6192    1.7310    1.7012
+
+  Columns 148 through 154
+
+    1.5173    1.8791    1.7183    1.4679    1.4944    2.1094    1.5281
+
+  Columns 155 through 161
+
+    1.8943    1.8869    1.9155    1.4771    1.4315    1.6883    1.6314
+
+  Columns 162 through 168
+
+    1.6119    1.9635    1.6739    1.7321    1.8614    2.1426    1.7892
+
+  Columns 169 through 175
+
+    1.3047    2.0918    2.3208    1.6386    2.0327    1.5480    1.8573
+
+  Columns 176 through 182
+
+    1.8645    1.7767    1.5473    1.8678    1.7361    1.9804    1.4959
+
+  Columns 183 through 189
+
+    1.8425    1.6391    1.7064    1.6345    1.6601    1.4404    1.8119
+
+  Column 190
+
+    1.8063
+
+
+BIC_seq =
+
+   1.0e+03 *
+
+  Columns 1 through 7
+
+    0.9926    1.0259    1.3594    1.5542    1.1495    1.4309    1.0875
+
+  Columns 8 through 14
+
+    1.1389    1.1612    1.2369    1.2127    1.3286    1.3906    1.1041
+
+  Columns 15 through 21
+
+    1.3524    1.2354    1.5605    1.2848    1.3322    1.0490    1.0148
+
+  Columns 22 through 28
+
+    0.9832    1.5464    1.1057    1.2927    1.1158    0.9837    1.2256
+
+  Columns 29 through 35
+
+    1.2854    1.1455    1.1924    1.1659    1.1953    0.8420    1.2911
+
+  Columns 36 through 42
+
+    1.3331    1.5053    0.9884    1.3223    1.2249    0.8716    1.0778
+
+  Columns 43 through 49
+
+    1.3366    1.3861    1.2808    1.0509    1.2993    1.0809    1.2809
+
+  Columns 50 through 56
+
+    0.8792    1.1002    1.2677    1.0056    1.5334    1.4877    1.1765
+
+  Columns 57 through 63
+
+    1.1464    1.1545    1.2595    1.7493    1.1724    1.6074    1.4447
+
+  Columns 64 through 70
+
+    1.1574    1.2420    1.3446    1.2615    1.4095    1.0010    1.1736
+
+  Columns 71 through 77
+
+    1.0890    1.3802    0.8804    1.2260    1.3659    1.3940    1.1434
+
+  Columns 78 through 84
+
+    1.4360    1.2386    1.4194    1.6043    1.2652    1.3598    1.3662
+
+  Columns 85 through 91
+
+    1.3851    1.2667    1.3333    1.2780    1.2351    1.3727    1.1454
+
+  Columns 92 through 98
+
+    1.2965    1.0655    1.4517    0.8998    1.3524    1.0997    0.9233
+
+  Columns 99 through 105
+
+    1.2598    1.2309    1.0015    1.0251    1.0910    1.1114    0.9197
+
+  Columns 106 through 112
+
+    1.2077    1.2028    1.2114    1.3808    1.6268    1.4033    1.1554
+
+  Columns 113 through 119
+
+    1.3120    0.7143    1.2249    0.8320    1.1688    1.2707    1.0990
+
+  Columns 120 through 126
+
+    1.1405    1.4354    0.8287    0.9921    0.8045    0.9477    0.8769
+
+  Columns 127 through 133
+
+    0.9573    1.1585    1.1198    1.2337    1.0576    1.0104    1.2116
+
+  Columns 134 through 140
+
+    1.2897    1.2615    1.4100    1.3889    1.0275    1.0841    1.4737
+
+  Columns 141 through 147
+
+    1.1692    1.1360    1.1474    1.0562    0.9531    1.2991    1.1747
+
+  Columns 148 through 154
+
+    0.9898    1.5546    1.0519    1.4336    1.2780    1.1876    1.1559
+
+  Columns 155 through 161
+
+    0.9598    1.1274    1.1032    1.3656    1.3977    1.1239    1.2208
+
+  Columns 162 through 168
+
+    1.4963    1.3834    1.3452    1.4343    1.1491    1.5798    1.2966
+
+  Columns 169 through 175
+
+    1.3024    1.0974    1.4264    1.0979    1.3265    1.6376    1.0616
+
+  Columns 176 through 182
+
+    1.2078    1.6100    1.1329    1.0872    1.1694    1.2652    1.3131
+
+  Columns 183 through 189
+
+    1.2824    1.1127    1.3708    1.2581    1.5546    1.3282    0.9408
+
+  Column 190
+
+    1.1510
+
+>> >> >> >> 

@@ -1,0 +1,9 @@
+function[]  = make_plot_modelselect_flexible(fcoef,coef_dim,)
+[invx,invy] = iFD(fcoef,coef_dim);
+figure
+plot(invx,invy,'r')
+
+box on 
+axis equal
+axis([0 1 0 1])
+set(gcf,'renderer','Painters')

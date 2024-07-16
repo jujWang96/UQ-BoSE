@@ -1,0 +1,21 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+   124
+
+{Undefined function or variable 'merge_segments'.
+} 
+>> >> >> {Error using fclose
+Invalid file identifier.  Use fopen to generate a valid file identifier.
+} 
+>> 

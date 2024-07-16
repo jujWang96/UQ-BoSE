@@ -1,0 +1,96 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+file_id =
+
+        1044
+
+[Warning: Output contains an empty polyshape due to duplicate vertices,
+intersections, or other inconsistencies.] 
+[> In polyshape/checkAndSimplify (line 465)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+[Warning: Polyshape has duplicate vertices, intersections, or other
+inconsistencies that may produce inaccurate or unexpected results. Input data
+has been modified to create a well-defined polyshape.] 
+[> In polyshape/checkAndSimplify (line 476)
+  In polyshape (line 175)
+  In FourierAIC (line 15)
+  In findminIC (line 78)
+  In merged87a_bootstrap_subfunction (line 10)] 
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+Xin
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 2 connected components in the graph.
+Drop 1 isolated cells.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+There are 1 connected components in the graph.
+background check
+background check
+{Output argument "centx_seq" (and maybe others) not assigned during call to
+"merged87a_bootstrap_subfunction".
+} 
+>> >> >> >> 

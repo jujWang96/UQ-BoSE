@@ -1,0 +1,11 @@
+function [cxs,cys] = adjust_curve_ROI(cxs,cys, ROI)
+%adjust the curve with a predefined ROI (polyshape)
+%the curve should be restrained inside the ROI
+curve_num = length(cxs);
+for i = 1:curve_num
+    poly_curve = polyshape(cxs{i}, cys{i});
+    intersection_poly = intersect(poly_curve, ROI);
+    boundary(poly)
+
+end
+intersect(poly1, poly2)
