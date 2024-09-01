@@ -1,6 +1,6 @@
 close all;
 clear;
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 plotpath = 'Astro_sim/real_data/plots/';
 resultpath = 'Astro_sim/real_data/results/';
 addpath(genpath(strcat(parpath,'Astro_sim')))

@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 resultpath = 'Astro_sim/real_data/results/';
 dataname = "NGC2300";
 

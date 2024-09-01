@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 resultpath = 'Astro_sim/real_data/results/';
 dataname = "NGC2300XMM";
 
@@ -14,7 +14,7 @@ addpath(genpath(strcat(parpath,'contour_util')))
 addpath(genpath(strcat(parpath,'FD_util')))
 addpath(genpath(strcat(parpath,'boot_util')))
 addpath(genpath(strcat(parpath,'gcr_util')))
-addpath(genpath(strcat(parpath,'NGC2300')))
+addpath(genpath(strcat(parpath,'NGC2300XMM')))
 
 imagename = strcat(parpath, plotpath, dataname, "_vor_UQ_");
 
