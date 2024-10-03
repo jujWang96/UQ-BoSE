@@ -43,7 +43,7 @@ idx = 0;
 for P = Ps
     for threshold = thresholds
         idx = idx+1;
-        [contourx,contoury, fourier_coef, raw_contour,min_BIC, min_BIC_2seg] = sim_fit_random_stratified(X, idx, false, P, threshold, rand_num, rep_itr,penalty, M);
+        [contourx,contoury, fourier_coef, raw_contour,selected, min_BIC, min_BIC_2seg] = sim_fit_random_stratified(X, idx, false, P, threshold, rand_num, rep_itr,penalty, M);
         BIC_tune(idx) = min_BIC;
         BIC_tune_2seg(idx) = min_BIC_2seg;
         if min_BIC_2seg < best_BIC
