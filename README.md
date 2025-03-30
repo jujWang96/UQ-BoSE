@@ -1,6 +1,4 @@
 # Auto-BUQ
-To apply the Auto-BUQ analysis to NGC2300 Chandra data, run the code in 'Astro_sim/run_2300chandra_UQ_analysis.m' and then 'Astro_sim/post_2300_UQ_analysis.m'.
 
-To apply the Auto-BUQ analysis to NGC2300 Newton-XMM data, run the code in 'Astro_sim/run_2300XMM_UQ_analysis.m' and then 'Astro_sim/post_2300XMM_UQ_analysis.m'.
+"Astro_sim" folder includes Auto-BUQ analysis script for NGC2300,NGC2300 Newton-XMM and Arp299 Newton-XMM data. To produce the simulation results, run "run_2300chandra_UQ_analysis.m", "run_2300XMM_UQ_analysis.m" and "run_299XMM_UQ_analysis.m". To produce plot analysis, run "post_2300_UQ_analysis.m", "post_2300XMM_UQ_analysis.m" and "post_299XMM_UQ_analysis.m".
 
-To apply the Auto-BUQ analysis to 299 Newton-XMM data, run the code in 'Astro_sim/run_299XMM_UQ_analysis.m' and then 'Astro_sim/post_299XMM_UQ_analysis.m'.
