@@ -1,8 +1,8 @@
 %load 
 % 
 close all;
-addpath(genpath('~/src/gsrg/Astro_sim/sim'))
-addpath(genpath('~/src/gsrg/plot_util'))
+addpath(genpath('~/UQ-BoSE/Astro_sim/sim'))
+addpath(genpath('~/UQ-BoSE/plot_util'))
 
 T  = 500;
 gridsizes = [0.05,0.1,0.2];
