@@ -1,7 +1,7 @@
 clear
 close all
 
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 plotpath = 'coverage_sim/plots/';
 cd(strcat(parpath, 'coverage_sim'))
 
@@ -27,7 +27,7 @@ merge_method = "random";
 factor = 30;
 sample_factor = 1;
 
-shapenames = ["spiral"];%["ellipse","bridge","spiral"];
+shapenames = ["ellipse","bridge","spiral"];
 methods = ["BIC","true_FD_num"]; 
 label_p = {texlabel('P_{LC}'),texlabel('P_G'),texlabel('P_l')};
 label_psim = {texlabel('P^{BIC}_e'),texlabel('P_e')};
@@ -51,9 +51,9 @@ for shapename = shapenames
     ps_all{3} = p;
     range = [0.5,3];
     
-    make_plot_coverage_prob(range,Beta,true,ps_all,p_sims_all,label_p, label_psim, linedot_p, linedot_psim,'k','k')
-    saveas(gca,strcat(parpath,plotpath,"coverage_prob_log_",shapename,"_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize), ...
-                    "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search)),"epsc")
+%     make_plot_coverage_prob(range,Beta,true,ps_all,p_sims_all,label_p, label_psim, linedot_p, linedot_psim,'k','k')
+%     saveas(gca,strcat(parpath,plotpath,"coverage_prob_log_",shapename,"_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize), ...
+%                     "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search)),"epsc")
     
     make_plot_coverage_prob(range,Beta,false,ps_all,p_sims_all,label_p, label_psim, linedot_p, linedot_psim,'k','k')
     saveas(gca,strcat(parpath,plotpath,"coverage_prob_",shapename,"_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize), ...

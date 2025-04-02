@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 resultpath = 'coverage_sim/results/';
 
 addpath(genpath(strcat(parpath,'Astro_sim')))
@@ -91,6 +91,6 @@ p_LCs = max(0,real(calc_lc_bd_single_continuous(true_FD_num,C,Beta)));
 
 p_sims = mean(covers,1);
 
-save(strcat(parpath,resultpath,"numset500_coverage_prob_",shapename,"_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize), ...
+save(strcat(parpath,resultpath,"coverage_prob_",shapename,"_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize), ...
             "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search),...
             "_selection_method",selection_method, "_boot_method" ,boot_method,'.mat'))
