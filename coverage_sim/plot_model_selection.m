@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 resultpath = 'coverage_sim/results/';
 plotpath = 'coverage_sim/plots/';
 addpath(genpath(strcat(parpath,'coverage_sim')))
@@ -67,8 +67,8 @@ histogram_plot_group_model_selection(candidate_bics_filter, true_FD_nums,factor,
 set(gcf,'position',[0,0,600,180])
 saveas(gcf,strcat(parpath,plotpath, "BIC","_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize),...
                 "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search)),'epsc')
-figure
-histogram_plot_group_model_selection(candidate_aics_filter, true_FD_nums,factor, sample_factor,false)
-set(gcf,'position',[0,0,600,180])
-saveas(gcf,strcat(parpath,plotpath, "AIC","_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize),...
-                "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search)),'epsc')
+% figure
+% histogram_plot_group_model_selection(candidate_aics_filter, true_FD_nums,factor, sample_factor,false)
+% set(gcf,'position',[0,0,600,180])
+% saveas(gcf,strcat(parpath,plotpath, "AIC","_sample_factor", num2str(sample_factor),"_factor", num2str(factor)  , "_gridsize", num2str(gridsize),...
+%                 "_gridonly",string(grid_only),"_merge",merge_method,"_forcemerge",string(force_merge),"_pairsearch",string(pair_search)),'epsc')

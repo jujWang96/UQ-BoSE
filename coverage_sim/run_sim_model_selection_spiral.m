@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 resultpath = 'coverage_sim/results/';
 addpath(genpath(strcat(parpath,'Astro_sim')))
 addpath(genpath(strcat(parpath,'G-SRG')))
