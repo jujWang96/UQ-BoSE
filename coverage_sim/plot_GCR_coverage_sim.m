@@ -1,6 +1,6 @@
 clear 
 close all
-parpath = '~/src/gsrg/';
+parpath = '~/UQ-BoSE/';
 plotpath = 'coverage_sim/plots/';
 resultpath = 'coverage_sim/results/';
 addpath(genpath(strcat(parpath,'Astro_sim')))
@@ -11,7 +11,7 @@ addpath(genpath(strcat(parpath,'FD_util')))
 addpath(genpath(strcat(parpath,'boot_util')))
 addpath(genpath(strcat(parpath,'gcr_util')))
 
-cd('~/src/gsrg/coverage_sim')
+cd('~/UQ-BoSE/coverage_sim')
 load('shape_coordinates.mat')
 linewidth = 1.5;
 %% srgong parameter
