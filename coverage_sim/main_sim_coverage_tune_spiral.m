@@ -14,7 +14,7 @@ addpath(genpath(strcat(parpath,'FD_util')))
 addpath(genpath(strcat(parpath,'boot_util')))
 addpath(genpath(strcat(parpath,'gcr_util')))
 
-cd('~/src/gsrg/coverage_sim')
+cd('~/UQ-BoSE/coverage_sim')
 load('shape_coordinates.mat')
 linewidth = 1.5;
 %% srgong parameter
