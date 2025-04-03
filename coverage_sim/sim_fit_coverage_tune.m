@@ -159,10 +159,7 @@ target_id = setdiff(seg_contour.regionId,seg_contour.background);
 [contourx,contoury] = get_curve(seg_contour.contourV{target_id},false);
 [centx,centy] = centroid(polyshape(contourx,contoury));
 [x_sample,y_sample] = sample_curve(contourx,contoury,300,centx, false);
-csv_file = strcat('~/src/gsrg/simulation_boundary/spiral_',num2str(seed),'.csv');
 
-% Write the matrix to the CSV file
-writematrix([x_sample,y_sample],csv_file);
 coef = FD(x_sample,y_sample);
 
 if show_plot
